@@ -1,3 +1,5 @@
+DEPRACATED IN FAVOR OF ameier38/ouroboros
+
 [![CircleCI](https://circleci.com/gh/ameier38/fsharp-event-sourcing/tree/develop.svg?style=svg)](https://circleci.com/gh/ameier38/fsharp-event-sourcing/tree/develop)
 
 # fsharp-event-sourcing
